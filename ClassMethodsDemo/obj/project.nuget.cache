@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGUnwlX0EhOl1iUpTyh2qvbEkmztEkWof+1bGCDOCQywH/1iCcAVJci6mMOShq7PKWGM+2qDkIMME3WiAJykgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fatime Kıran\\source\\repos\\Methods\\ClassMethodsDemo\\ClassMethodsDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatime Kıran\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Fatime Kıran\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

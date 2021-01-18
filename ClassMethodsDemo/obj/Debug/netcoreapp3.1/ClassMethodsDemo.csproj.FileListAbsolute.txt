@@ -1,0 +1,12 @@
+C:\Users\Fatime Kıran\source\repos\Methods\ClassMethodsDemo\bin\Debug\netcoreapp3.1\ClassMethodsDemo.exe
+C:\Users\Fatime Kıran\source\repos\Methods\ClassMethodsDemo\bin\Debug\netcoreapp3.1\ClassMethodsDemo.deps.json
+C:\Users\Fatime Kıran\source\repos\Methods\ClassMethodsDemo\bin\Debug\netcoreapp3.1\ClassMethodsDemo.runtimeconfig.json
+C:\Users\Fatime Kıran\source\repos\Methods\ClassMethodsDemo\bin\Debug\netcoreapp3.1\ClassMethodsDemo.runtimeconfig.dev.json
+C:\Users\Fatime Kıran\source\repos\Methods\ClassMethodsDemo\bin\Debug\netcoreapp3.1\ClassMethodsDemo.dll
+C:\Users\Fatime Kıran\source\repos\Methods\ClassMethodsDemo\bin\Debug\netcoreapp3.1\ClassMethodsDemo.pdb
+C:\Users\Fatime Kıran\source\repos\Methods\ClassMethodsDemo\obj\Debug\netcoreapp3.1\ClassMethodsDemo.AssemblyInfoInputs.cache
+C:\Users\Fatime Kıran\source\repos\Methods\ClassMethodsDemo\obj\Debug\netcoreapp3.1\ClassMethodsDemo.AssemblyInfo.cs
+C:\Users\Fatime Kıran\source\repos\Methods\ClassMethodsDemo\obj\Debug\netcoreapp3.1\ClassMethodsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Fatime Kıran\source\repos\Methods\ClassMethodsDemo\obj\Debug\netcoreapp3.1\ClassMethodsDemo.dll
+C:\Users\Fatime Kıran\source\repos\Methods\ClassMethodsDemo\obj\Debug\netcoreapp3.1\ClassMethodsDemo.pdb
+C:\Users\Fatime Kıran\source\repos\Methods\ClassMethodsDemo\obj\Debug\netcoreapp3.1\ClassMethodsDemo.genruntimeconfig.cache
