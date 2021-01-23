@@ -7,7 +7,7 @@ namespace OOP3
     {
         static void Main(string[] args)
         {
-            //bu alttaki satırlar banklacının ekranı gibi düşün //ekrandaki açılır kutudan seçiçek adam müşterinin talebini
+            //bu alttaki satırlar banklacının ekranı gibi düşün //ekrandaki açılır kutudan seçiçek adam müşterinin talebini.
             ICrediManager ihtiyacKrediManager = new IhtiyacKrediManager();
             
             ICrediManager tasitKrediManager = new TasitKrediManager();
